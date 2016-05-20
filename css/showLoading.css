@@ -1,0 +1,24 @@
+.loading-indicator {
+	height: 80px;
+	width: 80px;
+	background: url( '../images/wait.gif' );
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.loading-indicator-overlay {
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	filter: alpha(opacity = 30);
+}
+
+.yyx-loading-indicator-overlay{
+	background-color: #FFFFFF;
+	opacity: 0.1;
+	filter: alpha(opacity = 10);
+}
+.yyx2-loading-indicator-overlay{
+	background-color: #FFFFFF;
+	opacity: 0.4;
+	filter: alpha(opacity = 10);
+}
